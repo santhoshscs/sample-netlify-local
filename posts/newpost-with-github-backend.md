@@ -1,5 +1,6 @@
 ---
 title: NewPost with github backend
+draft: true
 ---
 Hi This is cool
 
